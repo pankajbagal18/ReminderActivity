@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ReminderActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+    <string name="notificationtitle">Notification</string>
+    <string name="lbltitle">"Title : "</string>
+    <string name="lbltext">"Text : "</string>
+    <string name="BroadcastReceiver">Broadcast Receiver</string>
+    <string name="wifioff">WIFI OFF</string>
+    <string name="wifion">WIFI ON</string>
+
+</resources>
